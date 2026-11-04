@@ -23,3 +23,7 @@ Default label names: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for
 ### Domain docs
 
 Single-context: one `GLOSSARY.md` and `docs/adr/` at the repo root. See `docs/agents/domain.md`.
+
+### Product spec
+
+How weebs behaves (search, Catalogue rules, Refresh, notifications, UI decisions) is in `docs/spec.md`, written in glossary terms. Read it before working on a feature and update it when behaviour changes.
